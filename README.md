@@ -1,2 +1,3 @@
 # Proyecto-Programacion-Concurrente
-Es una aplicación web que recomienda a los usuarios una entidad prestadora para transportes dependiendo el camino que desea recorrer 
+Es una aplicación web le regresa al usuario el indice de accidentes de una empresa especificada por el mismo; esto con motivo de prevenir accidentes. 
+
